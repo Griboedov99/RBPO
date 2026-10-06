@@ -150,4 +150,6 @@ RepairTrack — серверное веб-API для небольшого сер
 ## 11. Артефакты курса
 
 - Требования безопасности (`SR-*`): [security-requirements-repairtrack.md](security-requirements-repairtrack.md) — предварительный набор для S02, дорабатывается к S03.
+- Модель угроз (`T-*`): [threat-model-repairtrack.md](threat-model-repairtrack.md) — предварительная для S03, дорабатывается к S04.
+- Вклад участников: [CONTRIBUTIONS.md](CONTRIBUTIONS.md).
 - Использование ИИ: [AI_USAGE.md](AI_USAGE.md).
