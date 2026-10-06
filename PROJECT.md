@@ -153,3 +153,5 @@ RepairTrack — серверное веб-API для небольшого сер
 - Модель угроз (`T-*`): [threat-model-repairtrack.md](threat-model-repairtrack.md) — предварительная для S03, дорабатывается к S04.
 - Вклад участников: [CONTRIBUTIONS.md](CONTRIBUTIONS.md).
 - Использование ИИ: [AI_USAGE.md](AI_USAGE.md).
+- Проектные решения безопасности (D-*): [security-design-decisions-repairtrack.md](security-design-decisions-repairtrack.md).
+
